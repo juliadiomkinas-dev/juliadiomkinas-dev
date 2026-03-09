@@ -1,10 +1,5 @@
 # Oioi, Me chamo Julia 🧸✨️
 
-<!--
-**juliadiomkinas-dev/juliadiomkinas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ✨️🎓 Estudante de Gestão da Tecnologia da Informação  
 💻 Interessada em desenvolvimento de sistemas e análise de dados  
 🌱 Aprendendo e construindo projetos todos os dias  
