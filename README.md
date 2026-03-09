@@ -1,8 +1,8 @@
-# Oioi, Me chamo Julia 🧸✨️
+# Olá, eu sou a Julia 👋✨️
 
 ✨️🎓 Estudante de Gestão da Tecnologia da Informação  
 💻 Interessada em desenvolvimento de sistemas e análise de dados  
-🌱 Aprendendo e construindo projetos todos os dias  
+🌱 Construindo projetos e desenvolvendo habilidades em programação e tecnologia
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🛠 Projetos
 
-📌 **Rankeia**  
+📌 **Rankeia**
 Plataforma conceitual para avaliação e ranking de serviços, focada em organização de dados e experiência do usuário.
 
 📌 **Recomendador de Filmes**  
